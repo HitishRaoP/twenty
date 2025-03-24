@@ -27,22 +27,10 @@
   },
   "preconstruct": {
     "entrypoints": [
-      "./index.ts",
-      "./constants/index.ts",
-      "./testing/index.ts",
-      "./translations/index.ts",
-      "./types/index.ts",
-      "./utils/index.ts",
-      "./workspace/index.ts"
+      "./index.ts"
     ]
   },
   "files": [
-    "dist",
-    "constants",
-    "testing",
-    "translations",
-    "types",
-    "utils",
-    "workspace"
+    "dist"
   ]
 }
